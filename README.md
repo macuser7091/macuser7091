@@ -1,6 +1,6 @@
 ### Hi there! 👋
 
-I'm Aayush (macuser7091), a passionate **Web Developer** and **Tech Enthusiast** 🚀. Currently, I'm learning and building amazing web experiences. I also love **traveling and exploring new places around the world! 🌍✈️**
+I'm Dhannu (macuser7091), a passionate **Web Developer** and **Tech Enthusiast** 🚀. Currently, I'm learning and building amazing web experiences. I also love **traveling and exploring new places around the world! 🌍✈️**
 
 ### 🌟 About Me:
 - 🔭 Working on exciting **web development projects**.
@@ -23,7 +23,7 @@ I'm Aayush (macuser7091), a passionate **Web Developer** and **Tech Enthusiast**
 
 ### ✨ Connect With Me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/your-profile)
+[![Twitter](https://x.com/macuser7091?t=GRougPrRXKXVrz44z4jbzw&s=09)
 
 ---
 ⭐️ **Keep Coding & Keep Exploring!**
