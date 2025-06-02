@@ -22,7 +22,7 @@ I'm Dhannu (macuser7091), a passionate **Web Developer** and **Tech Enthusiast**
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=macuser7091&show_icons=true&theme=tokyonight)
 
 ### ✨ Connect With Me:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/dhannu-kumar-97149a369)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/macuser7091?t=GRougPrRXKXVrz44z4jbzw&s=09)
 
 ---
