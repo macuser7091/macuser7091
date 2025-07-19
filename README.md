@@ -1,29 +1,59 @@
-### Hi there! 👋
+<h1 align="center">Hi 👋, I'm Aayush Kumar</h1>
+<h3 align="center">🤖 Aspiring AI/ML Engineer | 🎓 BCA Student | 🇮🇳 India</h3>
 
-I'm Dhannu (macuser7091), a passionate **Web Developer** and **Tech Enthusiast** 🚀. Currently, I'm learning and building amazing web experiences. I also love **traveling and exploring new places around the world! 🌍✈️**
-
-### 🌟 About Me:
-- 🔭 Working on exciting **web development projects**.
-- 🌱 Currently learning **React, Next.js, and TailwindCSS**.
-- 🎯 Goal: Become a **Full Stack Developer**.
-- 💬 Ask me about **Web Development**.
-- 📫 Reach me at: macuser7091@gmail.com
-
-### 🛠️ Tech Stack:
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-
-### 📈 GitHub Stats:
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=macuser7091&show_icons=true&theme=tokyonight)
-
-### ✨ Connect With Me:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/dhannu-kumar-97149a369)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/macuser7091?t=GRougPrRXKXVrz44z4jbzw&s=09)
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?center=true&vCenter=true&lines=AI+%26+ML+Enthusiast;Python+Learner;Future+ML+Engineer;Data+Science+Explorer" />
+</p>
 
 ---
-⭐️ **Keep Coding & Keep Exploring!**
+
+### 🧠 About Me
+
+- 🎓 I’m currently pursuing BCA
+- 🤖 Passionate about **Artificial Intelligence** and **Machine Learning**
+- 🧪 Exploring core concepts like:
+  - Supervised & Unsupervised Learning
+  - Data Preprocessing
+  - Model Building and Evaluation
+- 📘 Currently learning:
+  - Python for Data Science
+  - NumPy, Pandas, Matplotlib, Scikit-learn
+- 🌏 Goal: To become a skilled AI/ML engineer and work on real-world problems
+
+---
+
+### 🛠️ Tech & Tools I'm Learning
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python,github,vscode" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=plotly&logoColor=white" />
+  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
+</p>
+
+---
+
+### 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=midnight-purple" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=macuser7091&theme=midnight-purple" />
+</p>
+
+---
+
+### 🔗 Connect with Me
+
+<p align="center">
+  <a href="mailto:macuser7091@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/your-linkedin"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+</p>
+
+---
+
+> 🧠 *"Learning never stops. Every model starts with a single line of code."*
+
