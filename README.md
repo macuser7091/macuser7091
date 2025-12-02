@@ -1,59 +1,80 @@
-<h1 align="center">Hi 👋, I'm Aayush Kumar</h1>
-<h3 align="center">🤖 Aspiring AI/ML Engineer | 🎓 BCA Student | 🇮🇳 India</h3>
+<h1 align="center">
+  👋 Hi, I'm Dhannu — DevOps & Cloud Engineering Learner
+</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?center=true&vCenter=true&lines=AI+%26+ML+Enthusiast;Python+Learner;Future+ML+Engineer;Data+Science+Explorer" />
-</p>
-
----
-
-### 🧠 About Me
-
-- 🎓 I’m currently pursuing BCA
-- 🤖 Passionate about **Artificial Intelligence** and **Machine Learning**
-- 🧪 Exploring core concepts like:
-  - Supervised & Unsupervised Learning
-  - Data Preprocessing
-  - Model Building and Evaluation
-- 📘 Currently learning:
-  - Python for Data Science
-  - NumPy, Pandas, Matplotlib, Scikit-learn
-- 🌏 Goal: To become a skilled AI/ML engineer and work on real-world problems
-
----
-
-### 🛠️ Tech & Tools I'm Learning
-
-<p>
-  <img src="https://skillicons.dev/icons?i=python,github,vscode" />
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=plotly&logoColor=white" />
-  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
-</p>
-
----
-
-### 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=macuser7091&show_icons=true&theme=midnight-purple" />
+  <!-- Typing animation (live SVG) -->
+  <img src="https://readme-typing-svg.demolab.com?font=Fira%20Code&size=28&pause=1000&color=0F172A&background=ffffff00&center=true&vCenter=true&width=800&height=60&lines=I+break+stuff+on+purpose.;Learning+AWS,+Docker,+Kubernetes+and+Terraform.;Building+CI/CD+pipelines+and+observability" alt="typing"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=macuser7091&theme=midnight-purple" />
+  <!-- Local animated hero GIF — add /assets/hero.gif to your repo for this to show -->
+  <img src="./assets/hero.gif" alt="hero-animation" width="720" style="max-width:100%;border-radius:12px"/>
 </p>
 
 ---
 
-### 🔗 Connect with Me
+## 🔥 Quick Summary
+- DevOps & Cloud learner focused on **AWS**, **Containers**, **CI/CD**, **IaC**, and **Observability**.  
+- I prefer practical, hands-on projects — I break things to learn how to fix them and automate the fix.
+- Current study: **Terraform modules**, **Kubernetes operator basics**, **Jenkins pipelines**, **Prometheus + Grafana**.
 
+---
+
+## 🚀 Interactive Tech Stack (clickable)
 <p align="center">
-  <a href="mailto:macuser7091@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://linkedin.com/in/your-linkedin"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://aws.amazon.com" target="_blank"><img alt="AWS" src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"></a>
+  <a href="https://www.docker.com" target="_blank"><img alt="Docker" src="https://img.shields.io/badge/Docker-0db7ed?style=for-the-badge&logo=docker&logoColor=white"></a>
+  <a href="https://kubernetes.io" target="_blank"><img alt="Kubernetes" src="https://img.shields.io/badge/Kubernetes-326ce5?style=for-the-badge&logo=kubernetes&logoColor=white"></a>
+  <a href="https://www.jenkins.io" target="_blank"><img alt="Jenkins" src="https://img.shields.io/badge/Jenkins-D33833?style=for-the-badge&logo=jenkins&logoColor=white"></a>
+  <a href="https://www.terraform.io" target="_blank"><img alt="Terraform" src="https://img.shields.io/badge/Terraform-7b42bc?style=for-the-badge&logo=terraform&logoColor=white"></a>
+  <a href="https://www.ansible.com" target="_blank"><img alt="Ansible" src="https://img.shields.io/badge/Ansible-000000?style=for-the-badge&logo=ansible&logoColor=white"></a>
+  <a href="https://prometheus.io" target="_blank"><img alt="Prometheus" src="https://img.shields.io/badge/Prometheus-e6522c?style=for-the-badge&logo=prometheus&logoColor=white"></a>
+  <a href="https://grafana.com" target="_blank"><img alt="Grafana" src="https://img.shields.io/badge/Grafana-f46800?style=for-the-badge&logo=grafana&logoColor=white"></a>
 </p>
 
 ---
 
-> 🧠 *"Learning never stops. Every model starts with a single line of code."*
+## 📈 GitHub Stats & Activity
+<p align="center">
+  <!-- These are dynamic images (not animated) but useful. Change username below. -->
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight" alt="github-stats" width="48%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight" alt="streak-stats" width="48%"/>
+</p>
 
+---
+
+## 🧰 Example Projects / Roadmap
+<details>
+<summary><strong>Short-term (this month)</strong></summary>
+
+- Build a reusable **Terraform module** for VPC + public-private subnets + IGW + NAT.
+- Create a **Jenkins pipeline** to build, test, and push Docker images to ECR and deploy to EKS.
+- Deploy **Prometheus + Grafana** stack on EKS using Helm and create dashboards for app + node metrics.
+
+</details>
+
+<details>
+<summary><strong>Medium-term (next 3 months)</strong></summary>
+
+- Implement GitOps using **ArgoCD** (or Flux) on a demo app.
+- Create **Auto-scaling** demo with metrics-based HPA and cluster autoscaler.
+- Configure centralized logging with **EFK (Elasticsearch/Fluentd/Kibana)** or Loki.
+
+</details>
+
+---
+
+## 📂 How this README is "interactive" / animated
+- **Typing SVG** (top) — live typing animation generated by `readme-typing-svg`.
+- **Local GIF** at `/assets/hero.gif` — add any short animation you like (terminal, k8s rollout, docker build). This gives the README a dynamic feel while staying safe (hosted in your repo).
+- **Dynamic images**: GitHub stats & streak images update automatically.
+
+---
+
+## 🛠️ Example badges (copy into your README wherever you want)
+```md
+[![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)]
+[![Docker](https://img.shields.io/badge/Docker-0db7ed?style=for-the-badge&logo=docker&logoColor=white)]
+[![Kubernetes](https://img.shields.io/badge/Kubernetes-326ce5?style=for-the-badge&logo=kubernetes&logoColor=white)]
+[![Terraform](https://img.shields.io/badge/Terraform-7b42bc?style=for-the-badge&logo=terraform&logoColor=white)]
